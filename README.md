@@ -29,5 +29,10 @@ This project is a deep learning-based image classifier designed to detect **crac
 - 🌐 Build a web interface for image uploads and on-the-fly predictions
 - 🔍 Integrate region-based detection for localizing crack positions
 
-## 📂 Project Structure
+
+## 🎓 Based On
+
+This project was based on a hands-on coding assignment from the Coursera course:  
+**[Deep Neural Networks with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch)**  
+by the **DeepLearning.AI** specialization taught by *Younes Bensouda Mourri* and *Laurence Moroney*.
 
