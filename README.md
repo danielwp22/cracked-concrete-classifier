@@ -1,4 +1,4 @@
-# Cracked Concrete Classifier (ResNet + PyTorch)
+# Cracked Concrete Classifier (ResNet18 + PyTorch)
 
 This project is a deep learning-based image classifier designed to detect **cracks in concrete**. It uses a ResNet architecture and an open-source dataset to achieve **highly accurate binary classification** between cracked and uncracked concrete surfaces.
 
